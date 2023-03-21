@@ -1,0 +1,40 @@
+.project-container {
+    padding: 5px;
+  }
+  .course-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .project-image {
+    width: 400px;
+    height: 300px;
+  }
+  
+  .duration-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .heading {
+    color: #171f46;
+  }
+  .desc {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+    color: #1e293b;
+  }
+  .duration {
+    font-weight: bold;
+    color: #1e293b;
+    margin-left: 5px;
+  }
+  .project-link {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #0967d2;
+    text-decoration: none;
+  }
+  
